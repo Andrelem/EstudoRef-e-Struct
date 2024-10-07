@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstudoRef-e-Struct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b32e65f13c2de12791a74d310d2ba5333ff6f3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstudoRef-e-Struct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstudoRef-e-Struct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

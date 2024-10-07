@@ -12,3 +12,4 @@ c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\refint\Estud
 c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.pdb
 C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.genruntimeconfig.cache
 C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\ref\EstudoRef-e-Struct.dll
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.sourcelink.json
