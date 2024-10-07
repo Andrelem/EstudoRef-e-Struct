@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EstudoRef-e-Struct")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ComparacaoValores e referencias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9dab5128d44b70da5bd6ffc582070e5cb85bf51")]
-[assembly: System.Reflection.AssemblyProductAttribute("EstudoRef-e-Struct")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EstudoRef-e-Struct")]
+[assembly: System.Reflection.AssemblyProductAttribute("ComparacaoValores e referencias")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ComparacaoValores e referencias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

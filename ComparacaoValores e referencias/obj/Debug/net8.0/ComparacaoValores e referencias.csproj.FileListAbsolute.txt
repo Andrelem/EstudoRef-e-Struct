@@ -1,0 +1,15 @@
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\bin\Debug\net8.0\ComparacaoValores e referencias.exe
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\bin\Debug\net8.0\ComparacaoValores e referencias.deps.json
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\bin\Debug\net8.0\ComparacaoValores e referencias.runtimeconfig.json
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\bin\Debug\net8.0\ComparacaoValores e referencias.dll
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\bin\Debug\net8.0\ComparacaoValores e referencias.pdb
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.AssemblyInfoInputs.cache
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.AssemblyInfo.cs
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.csproj.CoreCompileInputs.cache
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.sourcelink.json
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.dll
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\refint\ComparacaoValores e referencias.dll
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.pdb
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ComparacaoValores e referencias.genruntimeconfig.cache
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\ComparacaoValores e referencias\obj\Debug\net8.0\ref\ComparacaoValores e referencias.dll
