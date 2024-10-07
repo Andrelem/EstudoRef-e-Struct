@@ -1,0 +1,14 @@
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\bin\Debug\net8.0\EstudoRef-e-Struct.exe
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\bin\Debug\net8.0\EstudoRef-e-Struct.deps.json
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\bin\Debug\net8.0\EstudoRef-e-Struct.runtimeconfig.json
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\bin\Debug\net8.0\EstudoRef-e-Struct.dll
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\bin\Debug\net8.0\EstudoRef-e-Struct.pdb
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.AssemblyInfoInputs.cache
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.AssemblyInfo.cs
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.csproj.CoreCompileInputs.cache
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.dll
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\refint\EstudoRef-e-Struct.dll
+c:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.pdb
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\EstudoRef-e-Struct.genruntimeconfig.cache
+C:\Users\Andre\Documents\Csharp\EstudoRef-e-Struct\obj\Debug\net8.0\ref\EstudoRef-e-Struct.dll
